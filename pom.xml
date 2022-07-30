@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.22.9:8081/repository/paypal-releases/</url>
+	      <url>http://3.82.92.175:4000/repository/ebay-bts-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
